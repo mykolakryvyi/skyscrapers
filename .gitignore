@@ -1,0 +1,10 @@
+Env
+.env
+venv
+.venv
+pycache
+*.pyc
+*~
+*.egg-info
+*.mo
+*.egg

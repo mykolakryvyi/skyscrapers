@@ -1,7 +1,7 @@
 """
 Mykola Kryvyi
 Lab 0.1
-Github:
+Github: https://github.com/mykolakryvyi/skyscrapers.git
 """
 def read_input(path: str):
     """

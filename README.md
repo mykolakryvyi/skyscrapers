@@ -1,0 +1,1 @@
+Mykola Kryvyi Lab1 Task 1
